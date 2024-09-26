@@ -30,7 +30,7 @@ You can clear your current text entry by clicking the "Clear Form" button.
 
 ## Contributing
 
-This code was programmed using started code from the github repository miniature-eureka from user Xandromus:https://github.com/coding-boot-camp/miniature-eureka
+This code was programmed using started code from the github repository miniature-eureka from user Xandromus: https://github.com/coding-boot-camp/miniature-eureka
 
 ## License
 
